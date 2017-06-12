@@ -1,0 +1,11 @@
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\EmployeeExample.exe.config
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\EmployeeExample.exe
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\EmployeeExample.pdb
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\Commons.dll
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\Commons.pdb
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\obj\Debug\EmployeeExample.csprojResolveAssemblyReference.cache
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\obj\Debug\EmployeeExample.exe
+C:\Users\j1011660\Desktop\RetailWebApiExamples\EmployeeExample\obj\Debug\EmployeeExample.pdb

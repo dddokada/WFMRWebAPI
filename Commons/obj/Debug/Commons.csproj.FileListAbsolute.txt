@@ -1,0 +1,7 @@
+C:\Users\j1011660\Desktop\RetailWebApiExamples\Commons\bin\Debug\Commons.dll
+C:\Users\j1011660\Desktop\RetailWebApiExamples\Commons\bin\Debug\Commons.pdb
+C:\Users\j1011660\Desktop\RetailWebApiExamples\Commons\bin\Debug\Newtonsoft.Json.dll
+C:\Users\j1011660\Desktop\RetailWebApiExamples\Commons\bin\Debug\Newtonsoft.Json.xml
+C:\Users\j1011660\Desktop\RetailWebApiExamples\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+C:\Users\j1011660\Desktop\RetailWebApiExamples\Commons\obj\Debug\Commons.dll
+C:\Users\j1011660\Desktop\RetailWebApiExamples\Commons\obj\Debug\Commons.pdb
